@@ -1,0 +1,7 @@
+C:\Users\Reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\bin\Release\ImagemToHtml.exe
+C:\Users\Reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\bin\Release\ImagemToHtml.pdb
+C:\Users\Reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\obj\x86\Release\ImagemToHtml.Form1.resources
+C:\Users\Reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\obj\x86\Release\ImagemToHtml.Properties.Resources.resources
+C:\Users\Reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\obj\x86\Release\ImagemToHtml.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\obj\x86\Release\ImagemToHtml.exe
+C:\Users\Reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\obj\x86\Release\ImagemToHtml.pdb

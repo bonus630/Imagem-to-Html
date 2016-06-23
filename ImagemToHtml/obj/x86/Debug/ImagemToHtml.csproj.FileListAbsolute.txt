@@ -1,0 +1,8 @@
+c:\users\reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\bin\Debug\ImagemToHtml.exe
+c:\users\reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\bin\Debug\ImagemToHtml.pdb
+c:\users\reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\obj\x86\Debug\ImagemToHtml.Form1.resources
+c:\users\reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\obj\x86\Debug\ImagemToHtml.Properties.Resources.resources
+c:\users\reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\obj\x86\Debug\ImagemToHtml.csproj.GenerateResource.Cache
+c:\users\reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\obj\x86\Debug\ImagemToHtml.exe
+c:\users\reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\obj\x86\Debug\ImagemToHtml.pdb
+C:\Users\Reginaldo\documents\visual studio 2010\Projects\ImagemToHtml\ImagemToHtml\obj\x86\Debug\ImagemToHtml.csprojResolveAssemblyReference.cache
